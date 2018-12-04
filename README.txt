@@ -22,4 +22,4 @@ Each file consist of 10 columns:
 
 
 Relevant Paper:
-Sensors 2018; Latent Factors Limiting the Performance of sEMG-Interfaces, doi: 10.3390/s18041122
+Lobov S., Krilova N., Kastalskiy I., Kazantsev V., Makarov V.A. Latent Factors Limiting the Performance of sEMG-Interfaces. Sensors. 2018;18(4):1122. doi: 10.3390/s18041122
